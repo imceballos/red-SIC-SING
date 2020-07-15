@@ -6,3 +6,5 @@ The file Poster_red.pdf contains a couple of graphics, there are generated with 
 
 This folder contains the original dataset, with nodes and links.
 Dataset of the problem, team 5
+
+cleaner_data.py its a cleaner to pre-procces the original data with split method's
